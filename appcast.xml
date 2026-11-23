@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Fledgend</title>
+        <item>
+            <title>0.3.0</title>
+            <pubDate>Mon, 23 Nov 2026 21:48:20 +0000</pubDate>
+            <link>https://github.com/ak0864-a/Fledgend/releases</link>
+            <sparkle:version>0.3.0</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/ak0864-a/Fledgend/releases/download/v0.3.0/Fledgend-0.3.0-macOS-arm64.zip" length="19237531" type="application/octet-stream" sparkle:edSignature="HsDdeTsEEapwd1r7bsAZGiYoTA1NirF2/VQC7KxPQeQVVXnelKR87jNChTELvmaKCnpLmSpLwXpjY9F7e6s4Dg=="/>
+        </item>
+    </channel>
+</rss>
+<!-- sparkle-signatures:
+edSignature: AGHl1ArewWOEtWK3lT/E3Dlk5KPcvB/T5xWJNbo8SUOo+dHf6oHCrDor+NR/PJV2lGDclRnagqfu7jqpIS1cDQ==
+length: 1200
+-->
