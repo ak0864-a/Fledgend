@@ -6,38 +6,38 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Fledgend</title>
         <item>
-            <title>0.7.0</title>
-            <pubDate>Mon, 23 Nov 2026 23:24:47 +0000</pubDate>
+            <title>0.7.3</title>
+            <pubDate>Tue, 24 Nov 2026 18:35:36 +0000</pubDate>
             <link>https://github.com/ak0864-a/Fledgend/releases</link>
-            <sparkle:version>0.7.0</sparkle:version>
-            <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+            <sparkle:version>0.7.3</sparkle:version>
+            <sparkle:shortVersionString>0.7.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/ak0864-a/Fledgend/releases/download/v0.7.0/Fledgend-0.7.0-macOS-arm64.zip" length="19538171" type="application/octet-stream" sparkle:edSignature="/JHKmVurkvog74UWszI3ZCKZ8AQetjc8ToXj9UlKjIyviq+1Oini/VU5ooMgonyEq+YE1pTLZFxoNEnX2bWtCg=="/>
+            <enclosure url="https://github.com/ak0864-a/Fledgend/releases/download/v0.7.3/Fledgend-0.7.3-macOS-arm64.zip" length="19542778" type="application/octet-stream" sparkle:edSignature="nKeAa4UKdvmVPs0pZo3PSsuQyBSGRQZu40rTSrqJAkjoWl0JvnSsVBUP1I5z3LvNGQdcN8LVUoMAerefFnoIBA=="/>
         </item>
         <item>
-            <title>0.6.0</title>
-            <pubDate>Mon, 23 Nov 2026 22:53:21 +0000</pubDate>
+            <title>0.7.2</title>
+            <pubDate>Tue, 24 Nov 2026 18:02:54 +0000</pubDate>
             <link>https://github.com/ak0864-a/Fledgend/releases</link>
-            <sparkle:version>0.6.0</sparkle:version>
-            <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+            <sparkle:version>0.7.2</sparkle:version>
+            <sparkle:shortVersionString>0.7.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/ak0864-a/Fledgend/releases/download/v0.6.0/Fledgend-0.6.0-macOS-arm64.zip" length="19408888" type="application/octet-stream" sparkle:edSignature="ISJfB+xZ1lymBVngwnO+NlJB7bbgvUi/4NETtxVmxo6hhah5mmSI3VrxGIfECwLcfro2ufEd320SCvzgnRcxBQ=="/>
+            <enclosure url="https://github.com/ak0864-a/Fledgend/releases/download/v0.7.2/Fledgend-0.7.2-macOS-arm64.zip" length="19542442" type="application/octet-stream" sparkle:edSignature="ET3e4ZxQyuyOcAY3qOopDFQTZViFSFu3LFaPJPnMTlXxCeftgUBP9uPnz9dGpv1wHdBXDAhoOYYmA0IrCpP9CQ=="/>
         </item>
         <item>
-            <title>0.5.0</title>
-            <pubDate>Mon, 23 Nov 2026 22:25:27 +0000</pubDate>
+            <title>0.7.1</title>
+            <pubDate>Mon, 23 Nov 2026 23:49:31 +0000</pubDate>
             <link>https://github.com/ak0864-a/Fledgend/releases</link>
-            <sparkle:version>0.5.0</sparkle:version>
-            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+            <sparkle:version>0.7.1</sparkle:version>
+            <sparkle:shortVersionString>0.7.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/ak0864-a/Fledgend/releases/download/v0.5.0/Fledgend-0.5.0-macOS-arm64.zip" length="19273635" type="application/octet-stream" sparkle:edSignature="S+2Zp1opFlufYDbiYaZGnVBqgTa5oGwG/6+xPtfo6altTKX7jpDW5ek6TumO52p170zVYQyNpvAz/85QIFtyBg=="/>
+            <enclosure url="https://github.com/ak0864-a/Fledgend/releases/download/v0.7.1/Fledgend-0.7.1-macOS-arm64.zip" length="19538148" type="application/octet-stream" sparkle:edSignature="lTZEqSkc6RCoNe2g98hBpKmnlVuvta/zDZs83EWOsq0GJ+9il1s4Th3RTmfQVueLokev5e92eDRzHFIh7APZDQ=="/>
         </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: vXfDnkzcJjKE4zmMt9zFMueVH3odSi5TdM25vILhz20FsJwvBW9z0LQ0VOFE2EbXdjQdiLz/eKotI0OVi1TQCg==
+edSignature: f9v5W+Fk7kvGlA4RaVocdAIzKa4t5oUnwMqcKe2ziaGH08rCx+vWda+kyylpJWD6y9/6uu9YouaIa8kNPsyeCA==
 length: 2736
 -->
