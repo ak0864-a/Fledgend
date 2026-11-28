@@ -1,43 +1,20 @@
-<?xml version="1.0" standalone="yes"?>
-<!-- sparkle-sign-warning:
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
--->
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Fledgend</title>
         <item>
-            <title>0.8.0</title>
-            <pubDate>Sat, 28 Nov 2026 11:17:59 +0000</pubDate>
+            <title>0.9.1</title>
+            <pubDate>Sat, 28 Nov 2026 13:41:54 +0000</pubDate>
             <link>https://github.com/ak0864-a/Fledgend/releases</link>
-            <sparkle:version>0.8.0</sparkle:version>
-            <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
+            <sparkle:version>0.9.1</sparkle:version>
+            <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/ak0864-a/Fledgend/releases/download/v0.8.0/Fledgend-0.8.0-macOS-arm64.zip" length="19555479" type="application/octet-stream" sparkle:edSignature="XeiIgsSg2OwLcE3yAcyPHx8F6ehuVAvIpQjuTgzlPiBUvSaoDGNiaVhfB/EqKzpjbwrFY8UXNPnORrNjgtkTDg=="/>
-        </item>
-        <item>
-            <title>0.7.3</title>
-            <pubDate>Tue, 24 Nov 2026 18:35:36 +0000</pubDate>
-            <link>https://github.com/ak0864-a/Fledgend/releases</link>
-            <sparkle:version>0.7.3</sparkle:version>
-            <sparkle:shortVersionString>0.7.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/ak0864-a/Fledgend/releases/download/v0.7.3/Fledgend-0.7.3-macOS-arm64.zip" length="19542778" type="application/octet-stream" sparkle:edSignature="nKeAa4UKdvmVPs0pZo3PSsuQyBSGRQZu40rTSrqJAkjoWl0JvnSsVBUP1I5z3LvNGQdcN8LVUoMAerefFnoIBA=="/>
-        </item>
-        <item>
-            <title>0.7.2</title>
-            <pubDate>Tue, 24 Nov 2026 18:02:54 +0000</pubDate>
-            <link>https://github.com/ak0864-a/Fledgend/releases</link>
-            <sparkle:version>0.7.2</sparkle:version>
-            <sparkle:shortVersionString>0.7.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/ak0864-a/Fledgend/releases/download/v0.7.2/Fledgend-0.7.2-macOS-arm64.zip" length="19542442" type="application/octet-stream" sparkle:edSignature="ET3e4ZxQyuyOcAY3qOopDFQTZViFSFu3LFaPJPnMTlXxCeftgUBP9uPnz9dGpv1wHdBXDAhoOYYmA0IrCpP9CQ=="/>
+            <enclosure url="https://github.com/ak0864-a/Fledgend/releases/download/v0.9.1/Fledgend-0.9.1-macOS-arm64.zip" length="20716539" type="application/octet-stream" sparkle:edSignature="65LsMSTknTxkLMFaaP8ZktMzFzaf77trK7S7iXiV7iw6f/V080SHAQI6KnIEYw7k0l/wzRGvqRWgLQ4gaxj/CQ=="></enclosure>
         </item>
     </channel>
-</rss>
-<!-- sparkle-signatures:
-edSignature: 1TuOIamMZJ3XTeMXY1+Z2aintP8/S0njnlEMWlIcKqAg201ECaYnzWM4YkBNT0uzPU+VqqzxjLLR3A4pUg+xBg==
-length: 2736
+</rss><!-- sparkle-signatures:
+edSignature: FA1TGt32jTj+n6/GPrGk+zRgdm1NL0S3Q+QbUQv5bIthZoaF0d/pGSoGrziq1f3EgVjPC5G9V/dKFdigiOjODA==
+length: 1225
 -->
